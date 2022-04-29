@@ -1,0 +1,14 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables
+ Una variable es una de las formas que existen en JavaScript, para almacenar información, que podrá ser utilizada luego en cualquier momento de una manera más ágil.
+ * Strings
+ Un string es básicamente texto, palabras, las cuales deberán de ser escritas entre comillas.
+ * Funciones (argumentos, `return`)
+ Una función es un conjunto de instrucciones que se agrupan para realizar una tarea concreta, pudiendose reutilizar a lo largo del codigo.
+ Argumentos: Cuando coficamos funciones más complejas, nos encontramos con la necesidad de recibir cierta información para funcionar. Los argumentos son aquellos valores que se le envian a una función para ser empleados en sus operacione. Se envían mediante variables y se colocan entre los paréntesis posteriores al nombre de la función.
+Return: Las funciones pueden generar un valor de retorno usando la palabra return, obteniendo el valor cuando la función es llamada posteriormente.
+ * Declaraciones `if`
+ Las declaraciónes 'if', se utilizan para indicar condicionales. Ejemplo, si se cumple tal condición, realizar 'x' acción.
+ * Valores booleanos (`true`, `false`)
+ Un tipo de valor de los que existen en JavaScript, y se utiliza el 'true' para indicar algo que es verdadero y el 'false' para indicar algo que falso.
