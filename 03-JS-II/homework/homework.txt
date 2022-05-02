@@ -1,0 +1,14 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años.
+ Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`-------------------> El for es un bucle que se caracteriza por tener una sintaxis particular, la cual está compuesta por tres partes que deberan 
+encontrarse siempre. Estas partes son: 1) la declaración de una variable sobre la cual se va a trabajar, 2) un condicional de cierra el cual indicará 
+el cierre del bucle y por último 3) el incremento de la variable. El for evalua la condición y si es 'true', se ejecuta nuevamente hasta cumplirse la 
+condición de cierre.
+
+OPERADORES LÓGICOS
+* `&&`: es el operador que refiere al "Y", mediante el cual si ambas condiciones son 'true' devolvera un valor verdadero
+ `||`: es el operador que refiere al "O", mediante el cual se determinara si una epresión es "true". Si una o ambas expresiones es "true", devolvera un
+        valor verdadero. Sino, será "false".
+  `!`: es el operador que refiere al "NO", y devolvera el valor opuesto al que se le indique. Es decir, si se le indica una condición que es verdadera 
+        como por ejemplo 5 === 5, devolvera el valor contrario, en este caso "false".
